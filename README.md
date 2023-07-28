@@ -1,6 +1,8 @@
 
 # A Minimal Dark Theme for Visual Studio Code
 
+🇪🇸 [ReadME [ES]](./README[ES].md)   -   [ReadME [EN]](./README.md) 🇺🇸
+
 ## Description
 
 One Dark Minimal is a sleek and modern dark theme designed for Visual Studio Code. It is based on the popular "One Dark Pro" theme, with the main objective of providing a minimalistic and clean appearance to the Visual Studio Code editor.
