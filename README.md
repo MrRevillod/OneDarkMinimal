@@ -21,48 +21,56 @@ To further enhance your experience with One Dark Minimal, I recommend using the 
 - File Icon Theme: [Symbols](https://github.com/miguelsolorio/vscode-symbols)
 - Product Icon Theme: [Fluent Icons](https://github.com/miguelsolorio/vscode-fluent-icons)
 
+To enable both themes you can add the following lines in your settings.json file
+
+"workbench.productIconTheme": "fluent-icons",
+"workbench.iconTheme": "symbols",
+
+
 ## Better experience
 
 If you want a more minimal environment, consider using the following configurations:
+Claro, aquí tienes cada una de las líneas por separado:
 
-```json
-// Show icons for expanding and collapsing folders in the explorer.
-"symbols.hidesExplorerArrows": false,
+Deshabilitar el Minimap:
 
-// Show inline suggestions while typing.
-"editor.inlineSuggest.enabled": true,
+``` json
 
-// Disable the Minimap.
-"editor.minimap.enabled": false,
+"editor.minimap.enabled": false
 
-// Disable file preview when clicking on them in the sidebar.
-"workbench.editor.enablePreview": false,
+```
 
 
-// Set the icon theme for product icons.
-"workbench.productIconTheme": "fluent-icons",
+Deshabilitar Breadcrumbs:
 
-// Set the icon theme for explorer and sidebar icons.
-"workbench.iconTheme": "symbols",
+json
 
-// Disable Breadcrumbs.
-"breadcrumbs.enabled": false,
+"breadcrumbs.enabled": false
 
-// Hide vertical and horizontal scrollbars.
-"editor.scrollbar.vertical": "hidden",
-"editor.scrollbar.horizontal": "hidden",
+Ocultar la barra de desplazamiento vertical:
 
-// Disable scrolling beyond the last line.
-"editor.scrollBeyondLastLine": false,
+json
 
-// Set the number of additional columns beyond the content of the longest line that the editor should allow scrolling.
-"editor.scrollBeyondLastColumn": 0,
+"editor.scrollbar.vertical": "hidden"
 
-// Enable smooth scrolling of the editor.
-"editor.smoothScrolling": true,
+Ocultar la barra de desplazamiento horizontal:
 
-// Set the cursor blinking type.
-"editor.cursorBlinking": "smooth",
+json
 
-// Hide the line separating the main editor and the secondary sidebar.
-"editor.overviewRulerBorder": false,
+"editor.scrollbar.horizontal": "hidden"
+
+Deshabilitar el desplazamiento más allá de la última línea:
+
+json
+
+"editor.scrollBeyondLastLine": false
+
+Establecer la cantidad de columnas adicionales más allá del contenido de la línea más larga que el editor debería permitir desplazarse:
+
+json
+
+"editor.scrollBeyondLastColumn": 0
+
+Habilitar el desplazamiento suave del editor:
+
+
