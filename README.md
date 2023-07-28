@@ -1,5 +1,5 @@
 
-# One Dark Minimal - A Minimal Dark Theme for Visual Studio Code
+# A Minimal Dark Theme for Visual Studio Code
 
 ## Description
 
