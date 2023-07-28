@@ -23,9 +23,12 @@ To further enhance your experience with One Dark Minimal, I recommend using the 
 
 To enable both themes you can add the following lines in your settings.json file
 
-"workbench.productIconTheme": "fluent-icons",
-"workbench.iconTheme": "symbols",
+``` json
 
+"workbench.productIconTheme": "fluent-icons",
+"workbench.iconTheme": "symbols"
+
+```
 
 ## Better experience
 
