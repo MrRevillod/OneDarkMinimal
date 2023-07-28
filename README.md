@@ -32,8 +32,6 @@ To enable both themes you can add the following lines in your settings.json file
 If you want a more minimal environment, consider using the following configurations:
 Claro, aquí tienes cada una de las líneas por separado:
 
-/*
-
 Enable smooth scrolling in the editor:
 
 ``` json
@@ -94,5 +92,4 @@ Hide the line that separates the main editor and the secondary sidebar:
 "editor.overviewRulerBorder": false
 
 ```
-*/
 
