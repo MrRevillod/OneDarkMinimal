@@ -294,7 +294,7 @@
             "name": "Comments",
             "scope": "comment, punctuation.definition.comment",
             "settings": {
-                "foreground": "#5C6370",
+                "foreground": "#747474",
                 "fontStyle": "italic"
             }
         },
