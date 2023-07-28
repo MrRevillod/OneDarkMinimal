@@ -32,7 +32,25 @@ To enable both themes you can add the following lines in your settings.json file
 If you want a more minimal environment, consider using the following configurations:
 Claro, aquí tienes cada una de las líneas por separado:
 
-Deshabilitar el Minimap:
+/*
+
+Enable smooth scrolling in the editor:
+
+``` json
+
+"editor.smoothScrolling": true
+
+```
+
+Set the cursor blink type:
+
+``` json
+
+"editor.cursorBlinking": "smooth"
+
+```
+
+Disable the minimap:
 
 ``` json
 
@@ -40,37 +58,41 @@ Deshabilitar el Minimap:
 
 ```
 
+Disable the breadcrums
 
-Deshabilitar Breadcrumbs:
-
-json
+``` json
 
 "breadcrumbs.enabled": false
 
-Ocultar la barra de desplazamiento vertical:
+```
 
-json
+Hide the vertical scrollbar:
+
+``` json
 
 "editor.scrollbar.vertical": "hidden"
+```
 
-Ocultar la barra de desplazamiento horizontal:
+Hide horizontal scrollbar:
 
-json
+``` json
 
 "editor.scrollbar.horizontal": "hidden"
 
-Deshabilitar el desplazamiento más allá de la última línea:
+```
+Disable scrolling beyond the last line:
 
-json
+```json
 
 "editor.scrollBeyondLastLine": false
 
-Establecer la cantidad de columnas adicionales más allá del contenido de la línea más larga que el editor debería permitir desplazarse:
+```
 
-json
+Hide the line that separates the main editor and the secondary sidebar:
 
-"editor.scrollBeyondLastColumn": 0
+``` json
+"editor.overviewRulerBorder": false
 
-Habilitar el desplazamiento suave del editor:
-
+```
+*/
 
