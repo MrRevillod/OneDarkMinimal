@@ -34,7 +34,7 @@ To enable both themes you can add the following lines in your settings.json file
 
 If you want a more minimal environment, consider using the following configurations:
 
-- Use Nerd Fonts: [Official website](https://www.nerdfonts.com/) [Github repository](https://github.com/ryanoasis/nerd-fonts)
+- Use Nerd Fonts: [Official website](https://www.nerdfonts.com/) - [Github repository](https://github.com/ryanoasis/nerd-fonts)
 
 ``` json
 
