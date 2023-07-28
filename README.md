@@ -33,7 +33,15 @@ To enable both themes you can add the following lines in your settings.json file
 ## Better experience
 
 If you want a more minimal environment, consider using the following configurations:
-Claro, aquí tienes cada una de las líneas por separado:
+
+- Use Nerd Fonts: [Official website](https://www.nerdfonts.com/) [Github repository](https://github.com/ryanoasis/nerd-fonts)
+
+``` json
+
+"editor.fontFamily": "CaskaydiaCove Nerd Font",
+"editor.fontSize": 14
+
+```
 
 Enable smooth scrolling in the editor:
 
@@ -92,6 +100,7 @@ Disable scrolling beyond the last line:
 Hide the line that separates the main editor and the secondary sidebar:
 
 ``` json
+
 "editor.overviewRulerBorder": false
 
 ```
