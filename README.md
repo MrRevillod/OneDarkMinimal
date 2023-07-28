@@ -37,71 +37,55 @@ If you want a more minimal environment, consider using the following configurati
 - Use Nerd Fonts: [Official website](https://www.nerdfonts.com/) - [Github repository](https://github.com/ryanoasis/nerd-fonts)
 
 ``` json
-
 "editor.fontFamily": "CaskaydiaCove Nerd Font",
 "editor.fontSize": 14
-
 ```
 
 Enable smooth scrolling in the editor:
 
 ``` json
-
 "editor.smoothScrolling": true
-
 ```
 
 Set the cursor blink type:
 
 ``` json
-
 "editor.cursorBlinking": "smooth"
-
 ```
 
 Disable the minimap:
 
 ``` json
-
 "editor.minimap.enabled": false
-
 ```
 
 Disable the breadcrums
 
 ``` json
-
 "breadcrumbs.enabled": false
-
 ```
 
 Hide the vertical scrollbar:
 
 ``` json
-
 "editor.scrollbar.vertical": "hidden"
 ```
 
 Hide horizontal scrollbar:
 
 ``` json
-
 "editor.scrollbar.horizontal": "hidden"
 
 ```
 Disable scrolling beyond the last line:
 
 ```json
-
 "editor.scrollBeyondLastLine": false
-
 ```
 
 Hide the line that separates the main editor and the secondary sidebar:
 
 ``` json
-
 "editor.overviewRulerBorder": false
-
 ```
 
