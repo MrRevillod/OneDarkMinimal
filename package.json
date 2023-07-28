@@ -1,21 +1,32 @@
 {
-  "name": "minimal-dark",
-  "displayName": "Minimal Dark",
-  "description": "A modern and minimal color theme",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.80.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Minimal Dark Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Minimal Dark Theme-color-theme.json"
-      }
-    ]
-  }
+	"name": "one-dark-minimal",
+	"displayName": "One Dark Minimal",
+	"description": "A modern and minimal color theme",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "One Dark Minimal Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Minimal Dark Theme-color-theme.json"
+			}
+		]
+	},
+	"icon": "./img/icon.png",
+	"author": {
+		"name": "MrRevillod",
+		"email": "lrevillod2022@alu.uct.cl",
+		"url": "https://mrrevillod.vercel.app/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MrRevillod/OneDarkMinimal.git"
+	},
+	"publisher": "MrRevillod"
 }
