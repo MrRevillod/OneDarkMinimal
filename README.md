@@ -1,7 +1,7 @@
 
 # A Minimal Dark Theme for Visual Studio Code
 
-🇪🇸 [ReadME [ES]](./README[ES].md)   -   [ReadME [EN]](./README.md) 🇺🇸
+🇪🇸 [ReadME [ES]](./README[ES].md)   -   [ReadME [EN]](./README.md) 🇺🇸  
 
 ## Description
 
