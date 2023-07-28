@@ -14,3 +14,9 @@ One Dark Minimal is a sleek and modern dark theme designed for Visual Studio Cod
 - Carefully selected colors to ensure optimal readability and comfort during long coding sessions.
 
 
+## Recommended Extensions
+
+To further enhance your experience with One Dark Minimal, I recommend using the following icon themes:
+
+- File Icon Theme: [Symbols](https://github.com/miguelsolorio/vscode-symbols)
+- Product Icon Theme: [Fluent Icons](https://github.com/miguelsolorio/vscode-fluent-icons)
