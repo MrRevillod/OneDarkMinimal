@@ -12,9 +12,19 @@
 	"contributes": {
 		"themes": [
 			{
+				"label": "One Dark Minimal Darker",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Minimal-Dark-Theme-Darker.json"
+			},
+			{
 				"label": "One Dark Minimal Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Minimal Dark Theme-color-theme.json"
+				"path": "./themes/Minimal-Dark-Theme.json"
+			},
+			{
+				"label": "One Light Minimal",
+				"uiTheme": "vs",
+				"path": "./themes/Minimal-Light-Theme.json"
 			}
 		]
 	},
