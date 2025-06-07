@@ -2,7 +2,7 @@
 	"name": "one-dark-minimal",
 	"displayName": "One Dark Minimal",
 	"description": "A modern and minimal color theme",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.80.0"
 	},
